@@ -2,8 +2,8 @@
 
 > Status do estudo: Em desenvolvimento
 
-Para continuar esse estudo na sua máquina, por favor clique em:
+Para rodar esse projeto na sua máquina, por favor digite:
 
 ```
-próxima atividade
+node app.js
 ```
