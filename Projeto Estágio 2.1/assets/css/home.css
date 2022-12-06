@@ -1,0 +1,356 @@
+*{
+    box-sizing: border-box;
+}
+
+.caixa_header{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    background: #000000;
+    padding: 20px 10px;
+    color: #ffffff;
+}
+
+.caixa_header h1{
+    font-size: 30px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    display: flex;
+    justify-self: left;
+}
+
+
+.caixa_header nav, ul{
+    display: inline;
+}
+
+nav.nav_header li.nav{
+    display: inline;
+    margin: 0 0 0 30px;
+}
+
+nav.nav_header a.nav_link{
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    font-size: 15px;
+    text-decoration: none;
+    color: #ffffff;
+}
+
+nav.nav_header a.nav_link:hover{
+    color: #1ed760;
+    cursor: pointer;
+}
+
+.secao1{
+    background: #1D75DE;
+    width: 100%;
+    height: auto;
+}
+
+.caixa_promocao{
+    width: 700px;
+    margin: 0 auto;
+    padding: 70px 0 40px 0;
+}
+
+.promocao_principal{
+    font-size: 40px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    color: #ffffff;
+}
+
+.promocao{
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: #ffffff;
+    margin: 20px 0 0 0;
+}
+
+.botoes_secao1{
+    display: inline-block;
+    margin: 40px 0;
+}
+.link_comecar{
+    background-color: #000000;
+    border-radius: 500px;
+    padding: 16px 40px 16px;
+    font-family: Arial, Helvetica, sans-serif;
+    line-height: 16px;
+    color: #ffffff;
+    text-decoration: none;
+    text-align: center;
+    font-size: 14px;
+    text-transform: uppercase;
+}
+
+.link_comecar:hover{
+    color: black;
+    background-color: white;
+    border-color: black;
+    transition: 0.1s;
+    cursor: pointer;
+}
+
+.link_verplanos{
+    background-color: #000000;
+    border-radius: 500px;
+    padding: 16px 40px 16px;
+    font-family: Arial, Helvetica, sans-serif;
+    line-height: 16px;
+    margin-left: 40px;
+    color: #ffffff;
+    text-decoration: none;
+    text-align: center;
+    font-size: 14px;
+    text-transform: uppercase;
+}
+
+.link_verplanos:hover{
+    color: black;
+    background-color: white;
+    border-color: black;
+    transition: 0.1s;
+    cursor: pointer;
+}
+
+
+.secao2{
+    background: #ffffff;
+    width: 100%;
+    height: auto;
+}
+
+.titulo_oferecimento{
+    width: 670px;
+    height: 46px;
+    margin: 0 auto;
+    margin-bottom: 80px;
+}
+
+.titulo{
+    color: #000000;
+    font-size: 40px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    text-align: center;
+
+}
+
+.caixa_oferecimento{
+    width: 1195px;
+    margin: 0 auto;
+    padding: 80px 15px;
+}
+
+.caixa_oferecimento ul{
+    width: 1200px;
+    margin: 0 auto;
+}
+
+.lista{
+    width: 280px;
+    display: inline-block;
+    text-align: center;
+    box-sizing: border-box;
+    vertical-align: top;
+}
+
+.opcoes_main{
+    margin: 0 auto;
+    padding: 0;
+}
+
+.imagens{
+    height: 142px;
+    width: 142px;
+    margin: 0 auto;
+}
+
+.caixa_oferecimento h1.oferecimento{
+    font-weight: bold;
+    font-size: 23px;
+    font-family: Arial, Helvetica, sans-serif;
+    padding-top: 20px;
+}
+
+.caixa_oferecimento p.porque{
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    padding: 10px;
+}
+
+#secao3{
+    background: #efefef;
+}
+
+.caixa_planos{
+    width: 1500px;
+    margin: 0 auto;
+    padding: 60px 15px;
+}
+
+.caixa_planos h2{
+    font-size: 40px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    text-align: center;
+}
+
+.caixa_planos .escolha_plano{
+    font-size: 25px;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    margin: 10px 0;
+}
+
+.todos_os_planos{
+    width: 1250px;
+    margin: 0 auto;
+    margin-top: 50px;
+    margin-bottom: 26px;
+}
+
+.todos_os_planos .plano{
+    display: inline-block;
+    width: 400px;
+    vertical-align: text-top;
+    background: #ffffff;
+    border-radius: 15px;
+}
+
+.plano{
+    padding: 20px 20px 0 20px;
+    margin-right: 10px;
+}
+
+.primeira .titulo_plano{
+    font-size: 25px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    text-align: left;
+    margin-bottom: 5px;
+}
+
+
+.primeira .valor_plano{
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-bottom: 2px;
+}
+
+.primeira .contas{
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-bottom: 20px;
+}
+
+.primeira hr{
+    margin: 0 auto  ;
+}
+
+.oferecimento_plano{
+    padding-top: 30px;
+}
+
+.certo{
+    width: 24px;
+    height: 24px;
+    margin-right: 3px;
+    vertical-align: top;
+}
+
+.oferecimento_plano li{
+    font-size: 20px;
+    margin-bottom: 5px;
+    padding-bottom: 10px;
+}
+
+.link_comecar_planos{
+    color: #ffffff;
+    text-decoration: none;
+}
+
+.botao_comecar_planos{
+    background-color: black;
+    color: white;
+    text-align: center;
+    text-transform: uppercase;
+    font-weight: bold;
+    font-size: 14px;
+    padding: 16px 40px 16px;
+    border-radius: 500px;
+    font-family: Arial, Helvetica, sans-serif;
+    line-height: 16px;
+    margin: 20px 0;
+}
+
+.botao_comecar_planos:hover{
+    font-size: 16px;
+    cursor: pointer;
+}
+
+footer{
+    background: #000000;
+    height: auto;
+    padding: 60px 0 0 0;
+    color: #ffffff;
+}
+
+div.caixa_footer{
+    width: 1150px;
+    margin: 0 auto;
+}
+
+.logo{
+    display: inline-block;
+    vertical-align: top;
+    height: 350px;
+    width: 200px;
+    margin: 0 auto;
+    margin-right: 180px;
+    padding: 0px 15px;
+}
+
+.logo h1{
+    font-size: 30px;
+    font-weight: bold;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+}
+
+.nav_footer{
+    display: inline-block;
+}
+
+.opcoes{
+    display: inline-block;
+    vertical-align: top;
+    padding: 0 15px;
+    height: 350px;
+    width: 200px;
+}
+
+.nome{
+    font-weight: bold;
+    text-transform: uppercase;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 15px;
+    color: #919496;
+    margin: 25px 0;
+}
+
+.definicao{
+    font-size: 16px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: #ffffff;
+    padding: 3px 0px 20px 0px;
+}
+
+.definicao a:hover{
+    color: #1ed760;
+    cursor: pointer;
+}
+
+

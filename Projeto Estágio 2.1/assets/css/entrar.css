@@ -1,0 +1,100 @@
+*{
+    box-sizing: border-box;
+    background: #ffffff;
+}
+
+.caixa{
+    width: 450px;
+    margin: 0 auto;
+    padding: auto;
+}   
+
+.cabecalho{
+    width: 100px;
+    margin: 30px auto;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+}
+
+.cabecalho h1{
+    font-size: 40px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    text-align: center;
+}
+
+.recado h2{
+    font-size: 30px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    text-align: center;
+    margin-bottom: 40px;
+    padding-top: 20px;
+}
+
+form label.pergunta, form legend{ 
+    display: block;
+    font-size: 18px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    margin-bottom: 10px;
+}
+
+form label{
+    display: block;
+    font-size: 16px;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-bottom: 10px;
+}
+
+.input_padrao{
+    display: block;
+    margin-bottom: 20px;
+    padding: 10px 25px;
+    width: 100%;
+    border: solid;
+    border-radius: 5px;
+}
+
+.botao{
+    width: 150px;
+    margin: 0 auto;
+}
+
+.entrar{
+    width: 150px;
+    padding: 15px 0;
+    background: #1ed760;
+    color: #000;
+    font-weight: bold;
+    font-size: 18px;
+    font-family: Arial, Helvetica, sans-serif;
+    border: none;
+    border-radius: 500px;
+    transition: 1s all;
+    cursor: pointer;
+}
+
+.entrar:hover{
+    background: #1ed760;
+    transition: 1s;
+    transform: scale(1.2);
+}
+
+form p{
+    text-align: center;
+    margin-top: 18px;
+    font-size: 16px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold ;
+}
+
+.tenhoConta_link{
+    color: #1bbc54;
+    font-weight: 100;
+}
+
+.tenhoConta_link:hover{
+    color: #1ed760;
+}

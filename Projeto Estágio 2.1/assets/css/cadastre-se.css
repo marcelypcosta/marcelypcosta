@@ -1,0 +1,106 @@
+*{
+    box-sizing: border-box;
+    background: #ffffff;
+}
+
+.caixa{
+    width: 450px;
+    margin: 0 auto;
+    padding: 0 0 50px 0;
+}   
+
+.caixa h1{
+    font-size: 40px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    text-align: center;
+    margin: 30px 0;
+}
+
+.recado h2{
+    font-size: 30px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    text-align: center;
+    margin-bottom: 40px;
+}
+
+form{
+    margin: 40px 0;
+}
+
+form label.pergunta, form legend{ 
+    display: block;
+    font-size: 18px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    margin-bottom: 10px;
+}
+
+form label{
+    display: block;
+    font-size: 16px;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-bottom: 10px;
+}
+
+.input_padrao{
+    display: block;
+    margin-bottom: 20px;
+    padding: 10px 25px;
+    width: 100%;
+    border: solid;
+    border-radius: 5px;
+}
+
+#data{
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.checkbox{
+    margin: 20px 0;
+    display: block;
+    font-size: 16px;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-bottom: 10px;
+}
+
+.botao{
+    width: 150px;
+    margin: 0 auto;
+}
+
+.enviar{
+    width: 150px;
+    padding: 15px 0;
+    background: #1ed760;
+    color: #000;
+    font-weight: bold;
+    font-size: 18px;
+    font-family: Arial, Helvetica, sans-serif;
+    border: none;
+    border-radius: 500px;
+    transition: 1s all;
+    cursor: pointer;
+}
+
+.enviar:hover{
+    background: #1ed760;
+    transition: 1s;
+    transform: scale(1.2);
+}
+
+form p{
+    font-size: 16px;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    margin-top: 18px;
+}
+
+.tenhoConta_link{
+    color: #1bbc54;
+}
+
+.tenhoConta_link:hover{
+    color: #1ed760;
+}

@@ -1,0 +1,211 @@
+body{
+    background-color: #000;
+    font-family: Arial, Helvetica, sans-serif;
+    color: #ffffff;
+    display: grid;
+    grid-template-columns: auto 1fr;
+}
+
+.cabecalho{
+    background-color: #000;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    column-gap: 32px;
+    grid-template-columns: 1fr auto;
+    padding: 8px 32px;
+    height: 60px;
+    box-sizing: border-box;
+    grid-column: 2;
+    box-shadow: 0px 4px 4px rgba(17, 17, 17);
+}
+
+.search_cabecalho{
+    height: 40px;
+    width: 500px;
+    background-color: #000;
+    border: none;
+    border-radius: 10px;
+    font-family: Arial, Helvetica, sans-serif;
+    padding: 10px;
+}
+
+.perfil_cabecalho{
+    font-family: Arial, Helvetica, sans-serif;
+    display: grid;
+    grid-template-columns: repeat(2, auto);
+    column-gap: 8px;
+    align-items: center;
+    justify-self: flex-end;
+    color: #95999C;
+    padding: 8px 32px;
+}
+
+.perfil_cabecalho::before{
+    content: "";
+    display: block;
+    width: 32px;
+    height: 32px;
+    background-image: url(../imagens/perfil.png);
+    background-size: contain;
+    background-repeat: no-repeat; 
+    background-position: center; 
+}
+.menu-lateral{
+    background-color: rgb(17, 17, 17);
+    display: flex;
+    flex-direction: column;
+    grid-column: 1;
+    grid-row: 1 / span 2;
+    width: 200px;
+    height: 100vh;
+}
+
+.logo_pagina{
+    font-size: 30px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    padding: 16px;
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+.opcoes_menu{
+    padding-top: 20px;
+}
+
+.menu-lateral_link{
+    font-family: Arial, Helvetica, sans-serif;
+    height: 64px;
+    color: #95999C;
+    padding-left: 64px;
+    display: flex;
+    align-items: center;
+    text-decoration: none;
+}
+
+.menu-lateral_link::before{
+    width: 24px;
+    height: 24px;
+    position: absolute;
+    left: 24px;
+}
+
+.menu-lateral_link:hover{
+    color: #ffffff;
+    padding-left: 56px;
+    border-left: 8px solid #ffffff;
+}
+
+.menu-lateral_musica::before{
+    content: url(../imagens/icon-musicas.png);
+}
+
+.menu-lateral_radios::before{
+    content: url(../imagens/icon-radio.png);
+}
+
+.menu-lateral_explorar::before{
+    content: url(../imagens/icon-explorar.png);
+}
+
+.menu-lateral_favoritos::before{
+    content: url(../imagens/icon-favorito.png);
+}
+
+.menu-lateral_link--ativo{
+    color: #ffffff;
+    padding-left: 56px;
+    border-left: 8px solid #ffffff;
+}
+
+.logout{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    text-decoration: none;
+    color: #ffffff;
+    display: flex;
+    justify-content: center;
+    margin-top: 350px;
+}
+
+.logout::before{
+    content: url(../imagens/sair.png);
+    padding-right: 4px;
+}
+
+main{
+    padding: 30px;
+}
+
+main h2{
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    color: #ffffff;
+    font-size: 32px;
+    margin-bottom: 20px;
+}
+
+.spotify-playlists .list{
+    display: flex;
+    font-size: 22px;
+    margin-bottom: 20px;
+}
+
+.spotify-playlists .list .item{
+    min-width: 140px;
+    width: 200px;
+    padding: 15px;
+    margin: 30px;
+    background-color: #181818;
+    border-radius: 6px;
+    cursor: pointer;
+    transition: 0.4s;
+}
+
+.spotify-playlists .list .item:hover{
+    background-color: #252525;
+}
+
+.spotify-playlists .list .item img{
+    width: 100%;
+    border-radius: 6px;
+    margin-bottom: 10px;
+}
+
+.spotify-playlists .list .item h4{
+    font-family: Arial, Helvetica, sans-serif;
+    color: #ffffff;
+    font-size: 14px;
+    margin: 10px;
+    text-align: center;
+}
+
+.lista-musicas{
+    display: grid;
+    grid-template-columns: repeat(3, 1fr)
+}
+
+.p1{
+    font-weight: 700;
+}
+
+.lista-musicas li{
+    display: grid;
+    grid-template-columns: auto 1fr auto;
+    gap: 8px;
+    align-items: center;
+    background-color: #ffffff;
+    margin: 10px;
+    padding: 10px;
+    border-radius: 10px;
+    color: #000;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.lista-musicas p{
+    padding-left: 10px;
+    padding-bottom: 5px;
+    font-family: Arial, Helvetica, sans-serif;
+
+}
