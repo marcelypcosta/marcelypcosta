@@ -1,7 +1,7 @@
 ### Olá, sou Marcely Costa
 
 - 🎓 Hoje estou cursando o 2º período de Ciências da Computação na UNIPÊ - PB
-- 📚 Estudando curso por fora: HTML, CSS e Javascript. Na faculdade: C e PHP
+- 📚 Estudando mais a fundo HTML, CSS e Javascript
 - 💻 Estou me identificando com a área de front-end
 - 📥 Contato por e-mail: amarcelypereiracosta@gmail.com
 
