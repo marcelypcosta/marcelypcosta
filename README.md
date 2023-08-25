@@ -1,6 +1,6 @@
 ### Olá, sou Marcely Costa
 
-- 🎓 Hoje estou cursando o 3º período de Ciências da Computação na UNIPÊ - PB
+- 🎓 Hoje estou cursando o 4º período de Ciências da Computação na UNIPÊ - PB
 - 📚 Estudando mais a fundo HTML, CSS e Javascript
 - 💻 Estou me identificando com a área de front-end
 - 📥 Contato por e-mail: amarcelypereiracosta@gmail.com
