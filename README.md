@@ -1,8 +1,9 @@
 ### Olá, sou Marcely Costa
 
 - 🎓 Hoje estou cursando o 4º período de Ciências da Computação na UNIPÊ - PB
-- 📚 Estudando mais a fundo HTML, CSS e Javascript
-- 💻 Estou me identificando com a área de front-end
+- 🧠 Conhecimento em HTML, CSS e JAVASCRIPT
+- 📚 Iniciando estudos em React 
+- 💻 Me especializando como Front-End
 - 📥 Contato por e-mail: amarcelypereiracosta@gmail.com
 
 <div>
