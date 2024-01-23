@@ -1,8 +1,8 @@
-### Olá, sou Marcely Costa
+### Olá, sou Marcely Pereira Costa
 
-- 🎓 Hoje estou cursando o 4º período de Ciências da Computação na UNIPÊ - PB
-- 🧠 Conhecimento em HTML, CSS, JAVASCRIPT, REACT...
-- 💻 Me especializando como Front-End
+- 🎓 Hoje estou cursando o 5º período de Ciências da Computação na UNIPÊ - PB
+- 🧠 Conhecimento em HTML, CSS, JAVASCRIPT, REACT, TYPESCRIPT...
+- 💻 Desenvolvedora Web Front-End
 - 📥 Contato por e-mail: amarcelypereiracosta@gmail.com
 
 <div>
@@ -14,6 +14,8 @@
     <img height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" />
     <img height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" />
     <img height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />   
+    <img height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" /> 
+    <img height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" /> 
 </div>
 
 ##
