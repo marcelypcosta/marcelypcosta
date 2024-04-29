@@ -1,27 +1,105 @@
-### Olá, sou Marcely Pereira Costa
+<h1 align="center">Olá 👋, Eu sou Marcely P Costa</h1>
+<h3 align="center">Desenvolvedora Front End</h3>
 
-- 🎓 Hoje estou cursando o 5º período de Ciências da Computação na UNIPÊ - PB
-- 🧠 Conhecimento em HTML, CSS, JAVASCRIPT, REACT, TYPESCRIPT...
-- 💻 Desenvolvedora Web Front-End
-- 📥 Contato por e-mail: amarcelypereiracosta@gmail.com
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=marcelycostadev&label=Profile%20views&color=0e75b6&style=flat" alt="marcelycostadev" /> </p>
 
-<div>
-    <a href="https://github.com/marcelypcosta">
-    <img height="100em" src="https://github-readme-stats.vercel.app/api?username=marcelypcosta&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/> 
-    <img height="100em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcelypcosta&layout=compact&langs_count=16&theme=dracula"/>
-</div>
-<div>
-    <img height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" />
-    <img height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" />
-    <img height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />   
-    <img height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" /> 
-    <img height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" /> 
-</div>
+<img
+      align="right"
+      src="https://miro.medium.com/v2/resize:fit:828/format:webp/1*jcFRMD3bvm2zvGUH1oMGCw.png"
+      alt="Coding"
+      width="400"
+  />
 
-##
+- 🎓 Cursando 5º período de Ciência da Computação na UNIPÊ
 
-<!--<div>
-    <a target="_blank" href="https://www.instagram.com/marcelypcosta8"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
-    <a target="_blank" href="https://discord.com/channels/@me"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"></a>
-    <a target="_blank" href="https://www.linkedin.com/in marcely-pereira-costa-404b19239"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-</div>-->
+- 🧠 Conhecimento HTML  CSS  JAVASCRIPT  
+
+- 🌱 Estou aprendendo **React** e **Typescript**
+
+- 📫 E-mail para contato **marcelycostadev@gmail.com**
+
+
+<h3 align="left">Conecte-se comigo:</h3>
+<p align="left">
+  <a href="https://linkedin.com/in/marcely-pereira-costa-404b19239/" target="blank"
+    ><img
+      align="center"
+      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
+      alt="marcely pereira costa"
+      height="30"
+      width="40"
+  /></a>
+  <a href="https://instagram.com/marcelypcosta8" target="blank"
+    ><img
+      align="center"
+      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
+      alt="marcelypcosta8"
+      height="30"
+      width="40"
+  /></a>
+  <a href="https://discord.gg/marcelypcosta" target="blank"
+    ><img
+      align="center"
+      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg"
+      alt="marcelypcosta"
+      height="30"
+      width="40"
+  /></a>
+</p>
+
+<h3 align="left">Linguagem de programação e ferramentas</h3>
+<p align="left">
+    <img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"
+      alt="html5"
+      width="40"
+      height="40"
+    />
+    <img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"
+      alt="css3"
+      width="40"
+      height="40"
+    />
+    <img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
+      alt="javascript"
+      width="40"
+      height="40"
+    />
+    <img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"
+      alt="typescript"
+      width="40"
+      height="40"
+    />
+    <img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"
+      alt="react"
+      width="40"
+      height="40"
+    />
+    <img
+      src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg"
+      alt="figma"
+      width="40"
+      height="40"
+    />
+    <img
+      src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"
+      alt="git"
+      width="40"
+      height="40"
+    />
+    <img
+      src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg"
+      alt="tailwind"
+      width="40"
+      height="40"
+    />
+</p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=marcelycostadev&show_icons=true&locale=en" alt="marcelycostadev" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=marcelycostadev&show_icons=true&locale=en&layout=compact" alt="marcelycostadev" /></p>
+
+
