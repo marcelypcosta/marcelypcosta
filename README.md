@@ -10,13 +10,13 @@
       width="400"
   />
 
-- 🎓 Cursando 5º período de Ciência da Computação na UNIPÊ
+- 🎓 Cursando 6º período de Ciência da Computação na UNIPÊ
 
 - 🧠 Conhecimento HTML  CSS  JAVASCRIPT  
 
 - 🌱 Estou aprendendo **React** e **Typescript**
 
-- 📫 E-mail para contato **marcelycostadev@gmail.com**
+- 📫 E-mail para contato **amarcelypereiracosta@gmail.com**
 
 
 <h3 align="left">Conecte-se comigo:</h3>
