@@ -21,7 +21,7 @@
 
 <h3 align="left">Conecte-se comigo:</h3>
 <p align="left">
-  <a href="https://linkedin.com/in/marcely-pereira-costa-404b19239/" target="blank"
+  <a href="https://www.linkedin.com/in/marcelypcosta/" target="blank"
     ><img
       align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
