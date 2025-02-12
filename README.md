@@ -10,11 +10,11 @@
       width="400"
   />
 
-- 🎓 Cursando 6º período de Ciência da Computação na UNIPÊ
+- 🎓 Cursando 7º período de Ciência da Computação na UNIPÊ
 
-- 🧠 Conhecimento HTML  CSS  JAVASCRIPT  
+- 🧠 Conhecimento HTML  CSS  JAVASCRIPT  REACT TYPESCRIPT 
 
-- 🌱 Estou aprendendo **React** e **Typescript**
+- 🌱 Sempre atrás de desafios para evoluir !
 
 - 📫 E-mail para contato **amarcelypereiracosta@gmail.com**
 
