@@ -12,9 +12,9 @@
 
 - 🎓 Cursando 7º período de Ciência da Computação na UNIPÊ
 
-- 🧠 Conhecimento HTML  CSS  JAVASCRIPT  REACT TYPESCRIPT 
+- 🧠 Conhecimento HTML  CSS  JAVASCRIPT  REACT NEXT TYPESCRIPT TAILWIND STYLED-COMPONENTS
 
-- 🌱 Sempre atrás de desafios para evoluir !
+- 🌱 Sempre atrás de desafios para evoluir!
 
 - 📫 E-mail para contato **amarcelypereiracosta@gmail.com**
 
@@ -29,7 +29,7 @@
       height="30"
       width="40"
   /></a>
-  <a href="https://instagram.com/marcelypcosta8" target="blank"
+  <a href="https://instagram.com/marcelypcostaa" target="blank"
     ><img
       align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
@@ -79,6 +79,12 @@
       width="40"
       height="40"
     />
+      <img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg"
+      alt="next.js"
+      width="40"
+      height="40"
+    />
     <img
       src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg"
       alt="figma"
@@ -88,6 +94,12 @@
     <img
       src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"
       alt="git"
+      width="40"
+      height="40"
+    />
+      <img
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gitlab/gitlab-original.svg"
+      alt="gitlab"
       width="40"
       height="40"
     />
